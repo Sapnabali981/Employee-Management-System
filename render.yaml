@@ -1,7 +1,7 @@
 services:
   - type: web
     name: employee-management-system
-    env: java
+    runtime: java
     plan: free
     buildCommand: mvn clean install
     startCommand: java -jar target/*.jar
