@@ -11,11 +11,10 @@ This project demonstrates strong backend development concepts including **REST A
 
 ## 🚀 Live Project Links
 
-* 🌐 **Live API:** https://github.com/Sapnabali981/Employee-Management-System
-* 💻 **GitHub Repository:** https://ems-backend-cqtf.onrender.com/
+* 🌐 **Live API:** https://ems-backend-cqtf.onrender.com/
+* 💻 **GitHub Repository:** -https://github.com/Sapnabali981/Employee-Management-System
 
----
-
+--
 ## 🛠️ Tech Stack
 
 ### Backend
