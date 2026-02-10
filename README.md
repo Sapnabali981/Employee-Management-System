@@ -27,7 +27,7 @@ This project demonstrates strong backend development concepts including **REST A
 
 ### Database
 
-* PostgreSQL / MySQL (whichever you used)
+* PostgreSQL 
 
 ### Deployment
 
